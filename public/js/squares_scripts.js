@@ -1,0 +1,1 @@
+console.log('squares_scripts.js');
